@@ -109,14 +109,14 @@ After training:
 
 ---
 
-### 2️⃣ Real vs Generated Distribution Comparison
+### 2. Real vs Generated Distribution Comparison
 
 
 ![Real vs Generated](realvsgenerated.png)
 
 ---
 
-### 3️⃣ Training Loss Curve
+### 3. Training Loss Curve
 
 
 
